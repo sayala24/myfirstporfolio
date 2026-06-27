@@ -88,6 +88,15 @@ footer {
     padding: 15px;
     margin-top: 40px;
 }
+/* projects page */
+
+article {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom:  20px;
+}
 
 /* ===== Tablet and desktop ===== */
 
